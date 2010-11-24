@@ -1,4 +1,4 @@
-# Absolute Bare Minimum HTML5 Boilerplate
+# Absolute Bare Minimum HTML5 Boilerplate (with jQuery)
 
 Use this unless you want
 [every possible thing you could ever need](http://html5boilerplate.com/).
